@@ -4,14 +4,15 @@
 This is a small script that you can use together with [Mircokroon's world downloader](https://github.com/mircokroon/minecraft-world-downloader) to extract the world data from a replay.
 
 ## Usage
-1. Install [Mircokroon's world downloader](https://github.com/mircokroon/minecraft-world-downloader)
-2. Use the following settings:
+1. Install [Python](https://www.python.org/downloads/)
+2. Install [Mircokroon's world downloader](https://github.com/mircokroon/minecraft-world-downloader)
+3. Use the following settings:
    ![](images/wdl.png)
-3. Run server.py
+4. Run server.py
    ```sh
    python3 server.py replay.mcpr
    ```
-4. Wait for the world downloader to finish
+5. Wait for the world downloader to finish
 
 ## License
 
