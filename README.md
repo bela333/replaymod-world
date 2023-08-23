@@ -1,5 +1,7 @@
 # ReplayMod World Downloader
 
+THIS SOFTWARE IS PROVIDED AS IS, WITHOUT ANY WARRANTY OR OFFICIAL SUPPORT
+
 ## What is this?
 This is a small script that you can use together with [Mircokroon's world downloader](https://github.com/mircokroon/minecraft-world-downloader) to extract the world data from a replay.
 
